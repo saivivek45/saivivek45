@@ -22,21 +22,21 @@ Right now I'm going deep on **machine learning fundamentals** — not just using
 
 ## Projects
 
-### ⚙️ [Online Judge](https://github.com/saivivek45/REPLACE_WITH_REPO)
+### ⚙️ [Online Judge](https://github.com/saivivek45/codejudge-pro)
 A LeetCode-style coding judge that compiles and runs submitted code securely in isolated containers. The interesting part: building a sandboxed execution engine that's safe, fast, and handles concurrent submissions without race conditions.
 
 `Node.js` `Docker` `React` `Redis` `MongoDB`
 
 ---
 
-### 🤝 [Real-time Collaboration Platform](https://github.com/saivivek45/REPLACE_WITH_REPO)
+### 🤝 [Real-time Collaboration Platform](https://github.com/saivivek45/CoJoinn-web)
 A shared workspace where multiple users can edit documents simultaneously. Built the real-time sync layer with WebSockets, handling conflict resolution and keeping everyone's state consistent under concurrent edits.
 
 `Next.js` `WebSockets` `Node.js` `MongoDB` `TypeScript`
 
 ---
 
-### 🛒 [E-commerce Platform](https://github.com/saivivek45/REPLACE_WITH_REPO)
+### 🛒 [E-commerce Platform](https://github.com/saivivek45/forever)
 A full production e-commerce app with product management, cart, checkout, and order tracking. Deployed on AWS with a containerized backend. Built as a real product — custom admin dashboard, auth, and inventory management included.
 
 `React` `Node.js` `MongoDB` `AWS` `Docker`
