@@ -62,10 +62,5 @@ I'm a software engineer who builds things end-to-end. My stack is React, Next.js
 
 ---
 
-## LeetCode
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=heatmap" />
-</p>
 
 ---
